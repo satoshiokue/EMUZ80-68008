@@ -241,7 +241,7 @@ void __interrupt(irq(CLC1),base(8)) CLC1_ISR(){
     LATA4 = 0;      // DTACK=Low
     while(!RA0);	// /AS
     TRISC = 0xff;   //Set as input
-    LATA4 = 1;      // DTACK=Low
+    LATA4 = 1;      // DTACK=High
 }
 
 // main routine
