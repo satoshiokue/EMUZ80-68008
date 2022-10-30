@@ -1,5 +1,4 @@
 # EMUZ80-68008
-# EMUZ80-6502
 
 ![MEZ68008](https://github.com/satoshiokue/EMUZ80-68008/blob/main/imgs/IMG_1513.jpeg)  
 
