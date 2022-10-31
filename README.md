@@ -1,6 +1,7 @@
 # EMUZ80-68008
 
 ![MEZ68008](https://github.com/satoshiokue/EMUZ80-68008/blob/main/imgs/IMG_1513.jpeg)  
+MEZ68008  
 
 ![MEZ68008 Prototype](https://github.com/satoshiokue/EMUZ80-68008/blob/main/imgs/IMG_1490.jpeg)  
 試作基板
