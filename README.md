@@ -46,10 +46,18 @@ EMUZ80技術資料8ページにしたがってPICに適合するemuz80_68008_Qxx
 xxd -i -c16 foo.bin > foo.txt
 ```
 
+### EhBASIC68k for EMU
+https://github.com/satoshiokue/EhBASIC68k-EMU
+
+### TinyBASIC for EMU
+https://github.com/satoshiokue/TinyBASIC-EMU
+
 ## 謝辞
 思い入れのあるCPUを動かすことのできるシンプルで美しいEMUZ80を開発された電脳伝説さんに感謝いたします。
 
-そしてEMUZ80の世界を発展させている開発者の皆さんから刺激を受けて6502に挑戦しています。
+そしてEMUZ80の世界を発展させている開発者の皆さんから刺激を受けて68008に挑戦しています。
+
+"POWER TO MAKE YOUR DREAM COME TRUE"
 
 ## 参考）EMUZ80
 EUMZ80はZ80CPUとPIC18F47Q43のDIP40ピンIC2つで構成されるシンプルなコンピュータです。
