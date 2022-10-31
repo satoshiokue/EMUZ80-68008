@@ -5,7 +5,7 @@
 ![MEZ68008 Prototype](https://github.com/satoshiokue/EMUZ80-68008/blob/main/imgs/IMG_1490.jpeg)  
 試作基板
 
-電脳伝説さん(@vintagechips)のEMUZ80で信号を組み替えてMC68008を動作させることができます。  
+電脳伝説さん(@vintagechips)のEMUZ80が出力するZ80 CPU信号をメザニンボードで組み替えてMC68008を動作させることができます。  
 MC68008P10とPIC18F47Q83の組み合わせで動作確認しています。
 
 ソースコードはGazelleさんのEMUZ80用main_cpz.cを元に改変してGPLライセンスに基づいて公開するものです。
