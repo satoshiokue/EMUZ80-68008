@@ -1,5 +1,8 @@
 # EMUZ80-68008
 
+![MEZ68008](https://github.com/satoshiokue/EMUZ80-68008/blob/main/imgs/IMG_1537.jpeg)  
+MC68008LC8  
+
 ![MEZ68008](https://github.com/satoshiokue/EMUZ80-68008/blob/main/imgs/IMG_1513.jpeg)  
 MEZ68008  
 
