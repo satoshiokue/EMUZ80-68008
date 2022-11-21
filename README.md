@@ -60,6 +60,9 @@ https://github.com/satoshiokue/EhBASIC68k-EMU
 ### TinyBASIC for EMU
 https://github.com/satoshiokue/TinyBASIC-EMU
 
+### unimon_EMUZ80-68008
+https://github.com/satoshiokue/unimon_EMUZ80-68008
+
 ## 謝辞
 思い入れのあるCPUを動かすことのできるシンプルで美しいEMUZ80を開発された電脳伝説さんに感謝いたします。
 
