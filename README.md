@@ -37,7 +37,7 @@ EMUZ80で配布されているフォルダemuz80.X下のmain.cと置き換えて
 ## アドレスマップ
 ```
 ROM   0x0000 - 0x3FFF 16Kbytes
-RAM   0x8000 - 0x8FFF 4Kbytes (0x9FFF 16Kbytes:PIC18F47Q84,PIC18F47Q83)
+RAM   0x8000 - 0x8FFF 4Kbytes (0x9FFF 8Kbytes:PIC18F47Q84,PIC18F47Q83)
 
 UART  0xE000   Data REGISTER
       0xE001   Control REGISTER
