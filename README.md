@@ -45,6 +45,10 @@ UART  0xE000   Data REGISTER
 
 ## PICプログラムの書き込み
 EMUZ80技術資料8ページにしたがってPICに適合するemuz80_68008_Qxx.hexファイルを書き込んでください。  
+
+またはArduino UNOを用いてPICを書き込みます。  
+https://github.com/satoshiokue/Arduino-PIC-Programmer
+
 "Enhanced 68k BASIC Version 3.54"が起動します。
 
 PIC書き込みがうまくいかない時はMEZ68008の/BRショートプラグを外してEMUZ80の電源を入れ直します。  
