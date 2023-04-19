@@ -96,3 +96,8 @@ https://github.com/comoneko-nyaa/phemu6809conversionPCB
 phemu6809専用プリント基板 - オレンジピコショップ  
 https://store.shopping.yahoo.co.jp/orangepicoshop/pico-a-056.html
 
+
+## 改訂
+Version 0.2 2023/4/19  
+起動時にFirmwareの対象基板(MEZ68008)とクロック周波数を表示  
+10MHzファームウェアを追加  
